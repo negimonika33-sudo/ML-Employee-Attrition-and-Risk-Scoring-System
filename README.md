@@ -3,9 +3,7 @@
 An internship-level machine-learning project that trains three classification models,
 assigns explainable attrition-risk scores, and presents the results in Streamlit.
 
-New to coding or machine learning? Start with
-[`BEGINNER_GUIDE.md`](BEGINNER_GUIDE.md) for a plain-language explanation and a short
-demonstration script.
+
 
 ## What the project asked for
 
@@ -40,7 +38,7 @@ services, XGBoost, or SHAP. Everything runs locally in memory.
 
 ```text
 workforce-assistant/
-├── BEGINNER_GUIDE.md               Plain-language project explanation
+
 ├── app.py                          Streamlit dashboard
 ├── train_model.py                  Reproducible training entry point
 ├── run_app.py                      Dashboard launcher
